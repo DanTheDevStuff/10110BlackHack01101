@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @10110BlackHack01101 or Dan
+- 👀 I’m interested in Ethical Hacking and Penetration Testing
+- 🌱 I’m currently learning Ethical Hacking with Kali Linux
+- 📫 How to reach me: Email blackhack1995@gmail.com
