@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @10110BlackHack01101 or Dan. I'm a white male who loves computers.
+- 👋 Hi, I’m @DanTheDevStuff or Dan. I'm a white male who loves computers.
 - 👀 I’m interested in Aviation and Programming
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Email blackhacker1995@outlook.com
+- 📫 How to reach me: Email dan.thedev@outlook.com
