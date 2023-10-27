@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanTheDevStuff or Dan. I'm a white male who loves computers.
+- 👋 Hi, I’m @DanTheDevStuff or Dan. I'm a guy who loves computers.
 - 👀 I’m interested in Aviation and Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: Email dan.thedev@outlook.com
