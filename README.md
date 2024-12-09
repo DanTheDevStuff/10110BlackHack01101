@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DanTheDevStuff or Dan. I'm a guy who loves computers.
-- 👀 I’m interested in Aviation and Programming
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: Email dan.thedev@outlook.com
+![image](https://github.com/user-attachments/assets/e819496e-7414-45bb-b79c-d17aa4e9ccbb)
